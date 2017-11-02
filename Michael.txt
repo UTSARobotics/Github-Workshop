@@ -1,1 +1,4 @@
-This is an example sentence for the GitHub Workshop.
+This is an example sentence to show how Gitub version control works
+
+Michael was here
+
